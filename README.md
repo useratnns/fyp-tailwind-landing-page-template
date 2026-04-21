@@ -1,6 +1,6 @@
 # Free Tailwind landing page template
 
-![Simple TailwindCSS template preview](https://github.com/cruip/tailwind-landing-page-template/assets/2683512/f9a98fab-a1bc-4fb5-8572-4de0b6bd932a)
+![Simple TailwindCSS template preview](https://github.com/useratnns/tailwind-landing-page-template/assets/2683512/f9a98fab-a1bc-4fb5-8572-4de0b6bd932a)
 
 **Simple Light** is a free landing page template built on top of **TailwindCSS** and fully coded in **React** / **Next.js**. Simple light is designed to provide all the basic components a developer need to create a landing page for SaaS products, online services, and more.
 
@@ -9,7 +9,7 @@
 Use it for whatever you want, and be sure to reach us out on X if you build anything cool/useful with it.
 Created and maintained with ❤️ by [Cruip.com](https://cruip.com/).
 
-_Version 1.3.3 built with Tailwind CSS and React + Vite is available [here](https://github.com/cruip/tailwind-landing-page-template/releases/tag/1.3.3)._
+_Version 1.3.3 built with Tailwind CSS and React + Vite is available [here](https://github.com/useratnns/tailwind-landing-page-template/releases/tag/1.3.3)._
 
 ## Live demo
 
@@ -17,7 +17,7 @@ Check the live demo here 👉️ [https://simple.cruip.com/](https://simple.crui
 
 ## Simple Pro
 
-[![Simple Pro](https://github.com/cruip/tailwind-landing-page-template/assets/2683512/992be2ba-3de7-4838-be41-12e85686c193)](https://cruip.com/)
+[![Simple Pro](https://github.com/useratnns/tailwind-landing-page-template/assets/2683512/992be2ba-3de7-4838-be41-12e85686c193)](https://cruip.com/)
 
 ## Design files
 
@@ -25,7 +25,7 @@ If you need the design files, you can download them from Figma's Community 👉 
 
 ## Usage
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/useratnns/next.js/tree/canary/packages/create-next-app).
 
 ### Getting Started
 
@@ -56,7 +56,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+You can check out [the Next.js GitHub repository](https://github.com/useratnns/next.js/) - your feedback and contributions are welcome!
 
 ### Deploy on Vercel
 
@@ -87,5 +87,5 @@ We're an Italian developer/designer duo creating high-quality design/code resour
 
 ## Stay in the loop
 
-If you would like to know when we release new resources, you can follow [@pacovitiello](https://x.com/pacovitiello) and [@DavidePacilio](https://x.com/DavidePacilio) on X, or you can subscribe to our [newsletter](https://cruip.com/newsletter/).
+If you would like to know when we release new resources, you can follow [@pacovitiello](https://facebook.com/share/1E9deijpxL/) and [@DavidePacilio](https://facebook.com/share/1E9deijpxL/) on X, or you can subscribe to our [newsletter](https://cruip.com/newsletter/).
 
